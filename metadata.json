@@ -1,0 +1,8 @@
+{
+  "name": "Hệ Thống Điểm Danh Barcode Thẻ Sinh Viên",
+  "description": "Ứng dụng quét mã vạch thẻ sinh viên điểm danh qua camera máy tính và điện thoại, hiển thị trực quan và xuất file Excel / PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
